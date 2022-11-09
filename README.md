@@ -1,3 +1,6 @@
+<h1 align="center"> Hey 👋🏽, I'm Kaiden Ong </h1>
+
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiden-ong&count_private=true&show_icons=true&theme=github_dark" alt="Kaiden's Public Github Stats" />
 </p>
@@ -13,17 +16,15 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/kaiden-ong/">
-    <img align="center" alt="Kaiden's LinkedIn" width="30px" src="" />
-  </a> &nbsp;
+    <img align="center" alt="Kaiden's LinkedIn" width="50px" src="https://raw.githubusercontent.com/kaiden-ong/kaiden-ong/master/img/linkedin.svg" />
+  </a> &nbsp; &nbsp;
   <a href="https://github.com/kaiden-ong">
-    <img align="center" alt="Kaiden's Github" width="30px" src="" />
-  </a> &nbsp;
+    <img align="center" alt="Kaiden's Github" width="50px" src="https://raw.githubusercontent.com/kaiden-ong/kaiden-ong/master/img/github.svg" />
+  </a> &nbsp; &nbsp;
   <a href="mailto:kaiden.ong000@gmail.com">
-    <img align="center" alt="Kaiden's Email" width="30px" src="" />
+    <img align="center" alt="Kaiden's Email" width="50px" src="https://raw.githubusercontent.com/kaiden-ong/kaiden-ong/master/img/gmail.svg" />
   </a>
 </p>
-
-<a href=”https://www.linkedin.com/in/kaiden-ong/"><img align=”left” src=”https://raw.githubusercontent.com/kaiden-ong/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 ---
 
