@@ -16,13 +16,13 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/kaiden-ong/">
-    <img align="center" alt="Kaiden's LinkedIn" width="50px" src="https://raw.githubusercontent.com/kaiden-ong/kaiden-ong/master/img/linkedin.svg" />
+    <img align="center" alt="Kaiden's LinkedIn" width="50px" src="img/linkedin.svg" />
   </a> &nbsp; &nbsp;
   <a href="https://github.com/kaiden-ong">
-    <img align="center" alt="Kaiden's Github" width="50px" src="https://raw.githubusercontent.com/kaiden-ong/kaiden-ong/master/img/github.svg" />
+    <img align="center" alt="Kaiden's Github" width="50px" src="img/github.svg" />
   </a> &nbsp; &nbsp;
   <a href="mailto:kaiden.ong000@gmail.com">
-    <img align="center" alt="Kaiden's Email" width="50px" src="https://raw.githubusercontent.com/kaiden-ong/kaiden-ong/master/img/gmail.svg" />
+    <img align="center" alt="Kaiden's Email" width="50px" src="img/gmail.svg" />
   </a>
 </p>
 
@@ -32,5 +32,7 @@
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/kaiden-ong/count.svg" />
 </p>
+
+<img align="center" alt="Coding gif" src="img/coding.gif" width="100%" />
 
 ⭐️ From [@kaiden-ong](https://github.com/kaiden-ong)
