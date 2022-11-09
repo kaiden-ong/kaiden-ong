@@ -1,10 +1,24 @@
 <h1 align="center"> 👋 Hey There, I'm Kaiden</h1>
 
-<p>
-  I'm a second year student at 
-    <a href="https://www.washington.edu/"><img align="center" alt="University of Washington" width="20px" src="img/uw.png" /></a> 
-  studying informatics
-</p>
+
+I'm a second year student at 
+  <a href="https://www.washington.edu/"><img align="center" alt="University of Washington" width="20px" src="img/uw.png" /></a> 
+studying informatics
+<br>
+
+I'm proficient in:
+  - Java
+  - Python
+  - HTML/CSS 
+  - JavaScript
+  - SQL
+  - Figma
+  
+Currently I'm:
+  - Interested in anything coding/design related
+  - Learning about web-development and AI
+  - Working on a UW campus map web app with others
+
   
 ---
   
@@ -30,6 +44,9 @@
   </a> &nbsp; &nbsp;
   <a href="mailto:kaiden.ong000@gmail.com">
     <img align="center" alt="Kaiden's Email" width="50px" src="img/gmail.svg" />
+  </a> &nbsp; &nbsp;
+  <a href="https://www.facebook.com/kaiden.ong.5/">
+    <img align="center" alt="Kaiden's Facebook" width="50px" src="img/facebook.png" />
   </a>
 </p>
 
@@ -39,11 +56,11 @@
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/kaiden-ong/count.svg" />
 </p>
+<br><br>
 
-<br>
-<img align="center" alt="Coding gif" src="img/coding.gif" width="100%" />
-<p align="right">
-  <a align="right" href="https://www.pinterest.com/pin/567523990538356835/">Image Source</a>
-</p>
+<a align="center" href="https://www.pinterest.com/pin/567523990538356835/">
+  <img align="center" alt="Coding gif" src="img/coding.gif" width="100%" />
+</a>
+<br><br>
 
 ⭐️ From [@kaiden-ong](https://github.com/kaiden-ong)
