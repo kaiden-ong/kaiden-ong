@@ -6,7 +6,7 @@ I'm a second year student at
   <a href="https://www.washington.edu/"><img align="center" alt="University of Washington" width="20px" src="img/uw.png" /></a> 
 studying informatics
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kaiden-ong&count_private=true&show_icons=true&theme=github_dark" alt="Kaiden's Public Github Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kaiden-ong&count_private=true&show_icons=true&theme=github_dark" alt="Kaiden's Public Github Stats" width=50% />
   
 I'm proficient in:
   - Java
