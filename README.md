@@ -7,7 +7,7 @@ I'm a second year student at
 studying informatics
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kaiden-ong&count_private=true&show_icons=true&theme=github_dark" alt="Kaiden's Public Github Stats" width=50% />
-  
+
 I'm proficient in:
   - Java
   - Python
@@ -16,7 +16,8 @@ I'm proficient in:
   - SQL
   - Figma
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiden-ong&theme=github_dark&layout=compact" width=40% />
-  
+<br>
+ 
 Currently I'm:
   - Interested in anything coding/design related
   - Learning about web-development and AI
@@ -50,11 +51,10 @@ Currently I'm:
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/kaiden-ong/count.svg" />
 </p>
-<br><br>
+<br>
 
-<a align="center" href="https://www.pinterest.com/pin/567523990538356835/">
-  <img align="center" alt="Coding gif" src="img/coding.gif" width="100%" />
-</a>
-<br><br>
-
-⭐️ From [@kaiden-ong](https://github.com/kaiden-ong)
+<p align="center">
+    <a align="center" href="https://www.pinterest.com/pin/567523990538356835/">
+      <img align="center" alt="Coding gif" src="img/coding.gif" width="60%" />
+    </a>
+</p>
