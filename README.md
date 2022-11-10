@@ -15,7 +15,7 @@ I'm proficient in:
   - JavaScript
   - SQL
   - Figma
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiden-ong&theme=github_dark&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiden-ong&theme=github_dark&layout=compact" width=40% />
   
 Currently I'm:
   - Interested in anything coding/design related
