@@ -2,7 +2,7 @@
     
 
 <p align="left" width=50%>
-I'm a second year student at 
+I'm a third year student at 
   <a href="https://www.washington.edu/"><img align="center" alt="University of Washington" width="20px" src="img/uw.png" /></a> 
 studying informatics
 <br>
