@@ -6,6 +6,9 @@ I'm a third year student at
   <a href="https://www.washington.edu/"><img align="center" alt="University of Washington" width="20px" src="img/uw.png" /></a> 
 studying informatics
 <br>
+<br>
+<a href="https://kaiden-ong.github.io">Check Out My Website/Portfolio!</a>
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiden-ong&theme=github_dark&layout=compact" />
 <!---<img align="right" src="https://github-readme-stats.vercel.app/api?username=kaiden-ong&count_private=true&show_icons=true&theme=github_dark" alt="Kaiden's Public Github Stats" />--->
 
