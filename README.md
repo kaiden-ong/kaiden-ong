@@ -21,9 +21,9 @@ I'm proficient in:
  
 Currently I'm:
   - Interested in anything coding related
-  - Learning about AI, ML, and web development
-  - Applying to 2024 Summer Internships
-  - Starting on an AI image recognition app
+  - Learning about AI, ML, and server-side development
+  - Interning at Multicare for Summer 2024 as a full stack engineer
+  - Working on a virtual pantry app utilizing OCR on receipts
 </p>
 <br>
 
