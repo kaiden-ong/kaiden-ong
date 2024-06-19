@@ -20,10 +20,9 @@ I'm proficient in:
 <br>
  
 Currently I'm:
-  - Interested in anything coding related
-  - Learning about AI, ML, and server-side development
   - Interning at Multicare for Summer 2024 as a full stack engineer
-  - Working on a virtual pantry app utilizing OCR on receipts
+  - Working on a team, developing a virtual pantry app utilizing OCR on receipts
+  - Personally creating a fake news ML model and duplicate photo finder app
 </p>
 <br>
 
